@@ -1,6 +1,6 @@
 ## Overview
 
-The Movie Search App is a web application that allows users to search for information about movies, including details such as title, release year, cast, plot, and more. This application is built using HTML, CSS, and JavaScript.
+The Movie Search App is a web application that allows users to search for information about movies, including details such as title, release year,plot, and more. This application is built using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -10,11 +10,6 @@ The Movie Search App is a web application that allows users to search for inform
 
 ## Demo
 
-You can try the app live at [Demo Link](https://your-demo-link.com).
+You can try the app live at [Demo Link](https://majumderkoushik.github.io/movieSearch/).
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/movie-search-app.git
